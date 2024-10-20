@@ -4,7 +4,7 @@
 
 This is my python deep_learning homework
 
-contains:
+Contains:
 
 ·A Darknet-53(2018) model
 
