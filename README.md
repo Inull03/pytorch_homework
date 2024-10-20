@@ -8,4 +8,4 @@ contains:
 
 ·A Darknet-53(2018) model
 
-·A train.py
+·A train.py file
